@@ -1,6 +1,6 @@
 # Eesti keeles SQL SELECT lausete genereerimine suurte keelemudelite abil
 
-See projekt on magistritöö "EESTI KEELE KASUTAMINE SUURTE KEELEMUDELITE ABIL SQL-ANDMEBAASIDEST OTSINGUTE TEGEMISEKS" 
+See projekt on magistritöö "Eesti keele kasutamine suurte keelemudelite abil SQL-andmebaasidelst otsingute tegemiseks" 
 raames loodud tarkvara ja materjalide kogum. Töö keskendub suurte keelemudelite (LLM) võimekusele tõlkida 
 loomulikus eesti keeles esitatud küsimusi SQL SELECT lauseteks. 
 Projekti aluseks on [DAIL-SQL raamistik](https://github.com/BeachWang/DAIL-SQL), 
