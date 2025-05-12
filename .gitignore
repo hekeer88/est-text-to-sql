@@ -1,0 +1,22 @@
+.idea
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Virtualenv
+.venv38/
+.python-version
+
+# Cache and data
+vector_cache/
+dataset/
+third_party/
+
+# Logs and temp
+*.log
+nohup.out
